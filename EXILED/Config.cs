@@ -15,7 +15,7 @@ namespace CBXKomendyNarracyjne
     {
         public bool IsEnabled { get; set; } = true;
         [Description("System Staminy RP [Broken]?")]
-        public bool IsStaminaLossEnabled { get; set; } = true;
+        public bool IsStaminaLossEnabled { get; set; } = false;
         public bool Debug { get; set; } = false;
         [Description("Hud position of try command")]
         public int TryCommandPosition { get; set; } = 300;

@@ -12,7 +12,7 @@ namespace RolePlay_Tools
         public static Plugin Instance;
         public EventHandlers eventHandlers { get; set; }
         public API API { get; set; }
-        public const string PluginVersion = "1.0.6";
+        public const string PluginVersion = "1.3.0";
         public string HintsFilePath;
 
         public override string Name => "KomendyNarracyjne";
