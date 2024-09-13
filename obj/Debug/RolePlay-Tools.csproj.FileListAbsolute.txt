@@ -1,0 +1,2 @@
+E:\RolePlay-Tools-2.1.2\obj\Debug\RolePlay-Tools.csproj.AssemblyReference.cache
+E:\RolePlay-Tools-2.1.2\obj\Debug\RolePlay-Tools.csproj.CoreCompileInputs.cache
